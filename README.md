@@ -26,6 +26,8 @@ Selected co-authored work:
 
 ## Currently
 
+Exploring open-source calibration methodology for LLM-as-judge evaluation of agentic tool-use trajectories. Code coming Q3 2026.
+
 <!-- TODO: update once agent-judge-calibration ships -->
 <!-- Example: "Building an open-source calibration framework for LLM-as-judge evaluation of agentic tool-use trajectories. → [agent-judge-calibration](https://github.com/brihat9135/agent-judge-calibration)" -->
 
