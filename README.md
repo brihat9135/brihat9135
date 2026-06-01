@@ -20,9 +20,9 @@ Selected co-authored work:
 
 ## Things I have built
 
-- [Cadenza](https://cadenza.cafe) — interactive music theory and improvisation. Custom Web Audio engine with sub-10ms timing on chord changes, and an AI-assisted chord progression generator. [Repo overview](https://github.com/brihat9135/cadenza-overview).
-- [Exoplanet Atlas](https://exoplanetatlas.com) — full-stack exploration of 6,000+ NASA-confirmed exoplanets with 3D visualization. [Repo overview](https://github.com/brihat9135/exoplanetatlas-overview).
-- Invariant — paper-centric platform for physics research. arXiv and OpenAlex ingestion, LLM-generated summaries, signal-ranked weekly briefs.
+- [Cadenza](https://cadenza.cafe) - interactive music theory and improvisation. Custom Web Audio engine with sub-10ms timing on chord changes, and an AI-assisted chord progression generator. [Repo overview](https://github.com/brihat9135/cadenza-overview).
+- [Exoplanet Atlas](https://exoplanetatlas.com) - full-stack exploration of 6,000+ NASA-confirmed exoplanets with 3D visualization. [Repo overview](https://github.com/brihat9135/exoplanetatlas-overview).
+- Invariant - paper-centric platform for physics research. arXiv and OpenAlex ingestion, LLM-generated summaries, signal-ranked weekly briefs.
 
 ## Currently
 
